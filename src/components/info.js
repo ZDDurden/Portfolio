@@ -67,8 +67,8 @@ export default function info() {
           title="Download My Resume"
           className="mr-5 icon"
           target="_blank"
-          href="../public/static/ZDurdenResume.docx"
-          download="ZDurdenResume.docx"
+          href={`../ZDurdenResume.pdf`}
+          download
         >
           <Filetext />
         </a>
