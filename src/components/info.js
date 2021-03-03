@@ -59,7 +59,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
-          href="mailto://zddurden@crimson.ua.edu"
+          href="mailto://zachddurden@gmail.com"
         >
           <Mail />
         </a>
