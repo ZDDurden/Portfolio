@@ -31,7 +31,7 @@ export default function info() {
         A Detail-Oriented, Full-Stack Developer and Software Enthusiast Living
         in Birmingham, AL.
         <br />
-        Please contact me through social media or email for questions or
+        Please contact me through social media, or email, for questions or
         download my resume below.
         {/* <br />
         <Html />
